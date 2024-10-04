@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #!/usr/bin/python3
 
-=======
->>>>>>> f75b135 (initial commit)
 import os
 from flask import Flask
 from models import storage
